@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lantern</string>
+    <string name="flashlight_button_on">Flashlight On</string>
+    <string name="screen_button_on">Screen On</string>
+    <string name="flashlight_button_off">Flashlight Off</string>
+    <string name="screen_button_off">Screen Off</string>
 </resources>
