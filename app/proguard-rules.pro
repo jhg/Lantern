@@ -28,3 +28,4 @@
 -repackageclasses ''
 -allowaccessmodification
 -optimizations !code/simplification/arithmetic
+-keep public class Lantern
