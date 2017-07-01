@@ -5,12 +5,12 @@ android {
     buildToolsVersion "25.0.2"
     defaultConfig {
         applicationId "com.blogspot.blogdejhg.lantern"
-        minSdkVersion 10
+        minSdkVersion 15
         targetSdkVersion 23
         versionCode 6
         versionName '1.1.2'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-        resConfigs "en", "es", "jp", "xxxhdpi"
+        resConfigs "en", "es", "xxxhdpi"
     }
     buildTypes {
         release {
